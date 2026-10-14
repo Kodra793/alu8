@@ -1,0 +1,19 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.backup.*
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.srcs/
+
+# Waveform / simulation output
+*.wdb
+*.vcd
+*.vvp
+xsim.dir/
