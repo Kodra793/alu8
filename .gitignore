@@ -17,3 +17,6 @@
 *.vcd
 *.vvp
 xsim.dir/
+
+sim.out
+*.vcd
